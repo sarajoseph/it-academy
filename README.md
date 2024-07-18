@@ -1,0 +1,1 @@
+Projects created during the React course at IT Academy
