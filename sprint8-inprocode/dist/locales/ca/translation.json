@@ -1,0 +1,23 @@
+{
+  "total_balance": "Balanç total",
+  "today_expenses": "Despeses avui",
+  "compared_to_yesterday": "respecte a ahir",
+  "chart": {
+    "title": "Despeses - Última setmana",
+    "datasets_label": "Despeses"
+  },
+  "short_monday": "Dl",
+  "short_tuesday": "Dt",
+  "short_wednesday": "Dc",
+  "short_thursday": "Dj",
+  "short_friday": "Dv",
+  "short_saturday": "Ds",
+  "short_sunday": "Dg",
+  "monday": "Dilluns",
+  "tuesday": "Dimarts",
+  "wednesday": "Dimecres",
+  "thursday": "Dijous",
+  "friday": "Divendres",
+  "saturday": "Disabte",
+  "sunday": "Diumenge"
+}

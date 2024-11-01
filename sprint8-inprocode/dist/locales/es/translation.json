@@ -1,0 +1,23 @@
+{
+  "total_balance": "Balance total",
+  "today_expenses": "Gastos hoy",
+  "compared_to_yesterday": "respecto a ayer",
+  "chart": {
+    "title": "Gastos - Última semana",
+    "datasets_label": "Gastos"
+  },
+  "short_monday": "Lun",
+  "short_tuesday": "Mar",
+  "short_wednesday": "Mie",
+  "short_thursday": "Jue",
+  "short_friday": "Vie",
+  "short_saturday": "Sab",
+  "short_sunday": "Dom",
+  "monday": "Lunes",
+  "tuesday": "Martes",
+  "wednesday": "Miércoles",
+  "thursday": "Jueves",
+  "friday": "Viernes",
+  "saturday": "Sábado",
+  "sunday": "Domingo"
+}

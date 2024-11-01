@@ -1,0 +1,23 @@
+{
+  "total_balance": "Total balance",
+  "today_expenses": "Expenses today",
+  "compared_to_yesterday": "compared to yesterday",
+  "chart": {
+    "title": "Expenses - last week",
+    "datasets_label": "Expenses"
+  },
+  "short_monday": "Mon",
+  "short_tuesday": "Tue",
+  "short_wednesday": "Wed",
+  "short_thursday": "Thu",
+  "short_friday": "Fri",
+  "short_saturday": "Sat",
+  "short_sunday": "Sun",
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday"
+}
