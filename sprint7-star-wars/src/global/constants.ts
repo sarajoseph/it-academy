@@ -1,0 +1,5 @@
+export const DEFAULT_IMG_URL = '/images/default-no-image.jpg'
+export const VISUALGUIDE_IMG_URL = 'https://starwars-visualguide.com/assets/img/'
+export const STARSHIPS_IMG_URL = VISUALGUIDE_IMG_URL+'starships/'
+export const CHARACTERS_IMG_URL = VISUALGUIDE_IMG_URL+'characters/'
+export const FILMS_IMG_URL = VISUALGUIDE_IMG_URL+'films/'
