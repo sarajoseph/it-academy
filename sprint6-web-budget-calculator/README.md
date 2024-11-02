@@ -19,10 +19,10 @@ To clone and run this application, you will need Git and Node.js (which comes wi
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/sarajoseph/sprint6.git
+$ git clone https://github.com/sarajoseph/it-academy
 
 # Go into the repository
-$ cd sprint6-web-budget-calculator
+$ cd it-academy/sprint6-web-budget-calculator
 
 # Install dependencies
 $ npm install
@@ -36,13 +36,13 @@ $ npm run dev
 
 [<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />](https://vitejs.dev)[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://react.dev)[<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">](https://typescriptlang.org)[<img src="https://img.shields.io/badge/Tailwind_CSS-0b1120?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4">](https://tailwindcss.com)[<img src="https://img.shields.io/badge/daisyUI-white?style=for-the-badge&logo=daisyui&logoColor=5A0EF8">](https://daisyui.com)[<img src="https://img.shields.io/badge/eslint-white?style=for-the-badge&logo=eslint&logoColor=4B32C3">](https://eslint.org)[<img src="https://img.shields.io/badge/standardJS-F3DF49?style=for-the-badge&logo=standardJS&logoColor=black">](https://standardjs.com)
 
-Vite (https://vitejs.dev)
-ReactJS (https://react.dev)
-Typescript (https://typescriptlang.org)
-Tailwind (https://tailwindcss.com)
-DaisyUI (https://daisyui.com)
-ESLint (https://eslint.org)
-StandardJS (https://standardjs.com)
+Vite (https://vitejs.dev)  
+ReactJS (https://react.dev)  
+Typescript (https://typescriptlang.org)  
+Tailwind (https://tailwindcss.com)  
+DaisyUI (https://daisyui.com)  
+ESLint (https://eslint.org)  
+StandardJS (https://standardjs.com)  
 
 
 ## Notes

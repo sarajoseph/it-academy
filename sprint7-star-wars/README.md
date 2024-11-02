@@ -20,10 +20,10 @@ To clone and run this application, you will need Git and Node.js (which comes wi
   
 ```bash
 # Clone this repository
-$ git clone https://github.com/sarajoseph/sprint7-star-wars.git
+$ git clone https://github.com/sarajoseph/it-academy
 
 # Go into the repository
-$ cd sprint7-star-wars
+$ cd it-academy/sprint7-star-wars
 
 # Install dependencies
 $ npm install

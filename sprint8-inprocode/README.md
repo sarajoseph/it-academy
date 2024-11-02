@@ -19,10 +19,10 @@ To clone and run this application, you will need Git and Node.js (which comes wi
   
 ```bash
 # Clone this repository
-$ git clone https://github.com/sarajoseph/sprint8-inprocode.git
+$ git clone https://github.com/sarajoseph/it-academy
 
 # Go into the repository
-$ cd sprint8-inprocode
+$ cd it-academy/sprint8-inprocode
 
 # Install dependencies
 $ npm install
